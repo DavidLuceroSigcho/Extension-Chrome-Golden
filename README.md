@@ -1,2 +1,2 @@
-# Extension-Chrome-Golden
+# Extension-Chrome-Scapear
 Proyect of Krodwy
