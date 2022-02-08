@@ -1,2 +1,2 @@
 # Extension-Chrome-Scapear
-Proyect of Krodwy
+Este es un repositorio creado para el Taller Practico FullStack del Krodwy Academy
